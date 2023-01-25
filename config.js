@@ -18,9 +18,9 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6289503657396']
+global.owner = ['6285825017445']
 global.premium = ['6289503657396']
-global.meki = '6289503657396'
+global.meki = '6289503657896'
 global.ownerNumber = '6289503657396'
 global.packname = 'ZyyXtrime'
 global.author = 'REALZI - BOT'
